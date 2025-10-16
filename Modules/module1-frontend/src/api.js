@@ -1,6 +1,6 @@
 // API functions connected to backend
 
-const API_BASE = 'http://localhost:8080/api';
+const API_BASE = 'http://localhost:8081/api';
 
 export const fetchProducts = async () => {
   try {
