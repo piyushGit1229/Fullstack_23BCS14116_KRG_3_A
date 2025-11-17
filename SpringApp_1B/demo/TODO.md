@@ -1,0 +1,22 @@
+# Enhanced E-Commerce Platform TODO
+
+- [x] Update pom.xml: Add spring-boot-starter-security
+- [x] Create SecurityConfig.java for basic auth with in-memory users
+- [x] Create User.java model for auth
+- [x] Update EcommerceService.java to handle users with JSON data
+- [x] Create AuthController.java for login/signup routes
+- [x] Create home.html template (landing page)
+- [x] Create login.html template
+- [x] Create signup.html template
+- [x] Create profile.html template
+- [x] Create about.html template
+- [x] Create contact.html template
+- [x] Update existing templates (index.html, products.html, cart.html, order.html, order-confirmation.html) with professional CSS, navbar, footer
+- [x] Add static/css/style.css for modern styling
+- [x] Add static/js/app.js for interactivity
+- [x] Add static/images/ for sample images
+- [x] Test auth flow and UI
+- [x] Update EcommerceService.java with real product data and high-quality images
+- [x] Redesign cart.html with modern Bootstrap styling and enhanced UX
+- [x] Redesign order.html with comprehensive checkout form and payment options
+- [x] Redesign order-confirmation.html with success animation and detailed order summary
